@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Task Manager",
+    "slug": "taskmanager",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1e1e2f"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./icon.png",
+        "backgroundColor": "#1e1e2f"
+      },
+      "package": "com.ozgrcetn.taskmanager"
+    },
+    "web": {
+      "favicon": "./icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6d451e88-ca8f-40b0-81f9-72dbd7355002"
+      }
+    },
+    "owner": "ozgrcetn"
+  }
+}
